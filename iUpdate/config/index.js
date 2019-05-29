@@ -9,7 +9,7 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/XUpdate/',
+    assetsPublicPath: '/',
     proxyTable: {},
 
     // Various Dev Server settings

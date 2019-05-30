@@ -13,6 +13,7 @@
         <h3>Try it out</h3>
         <button @click="onSetColor">Set color</button>
         </div>
+        <iframe src="https://www.w3schools.com"></iframe>
     </div>
     </div>
 </div>
